@@ -16,3 +16,11 @@ I'm always looking to meet other interesting humans, so do drop me a line if
 you'd like to chat.
 
 Cheers!
+
+## Talks
+
+- [How To Open-Source: Lessons Learned From Building
+  _tailwind-ppx_](https://youtu.be/_bQ3XI6pC-4) ~ SIGPLAN UIUC ~ 11/15/20
+
+- [Functional Programming, React, and Compilers in ReasonML](https://youtu.be/jaSMp6aoHmU) ~ Chicago
+  ReasonML ~ 04/08/20
