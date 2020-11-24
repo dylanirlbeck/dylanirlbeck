@@ -1,4 +1,4 @@
-_Hey, I'm Dylan!_ :wave
+_Hey, I'm Dylan!_ 👋
 
 A little about me: I'm currently a senior at the University of Illinois
 Urbana-Champaign (UIUC), studying computer science. I have done some open-source
