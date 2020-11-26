@@ -19,5 +19,5 @@ Cheers!
 
 ## Talks
 
-- [How To Open-Source: Lessons Learned From Building _tailwind-ppx_](https://youtu.be/_bQ3XI6pC-4) ~ SIGPLAN UIUC ~ 11/15/20
-- [Functional Programming, React, and Compilers in ReasonML](https://youtu.be/jaSMp6aoHmU) ~ Chicago ReasonML ~ 04/08/20
+- [How To Open-Source: Lessons Learned From Building _tailwind-ppx_](https://youtu.be/SntggdbJ_Is) ~ SIGPLAN UIUC ~ 11/15/20
+- [Functional Programming, React, and Compilers in ReasonML](https://youtu.be/D_ybZoJKQSE) ~ Chicago ReasonML ~ 04/08/20
