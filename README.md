@@ -10,8 +10,7 @@ a [few](https://flexport.com) [different](https://draftbit.com)
 I'm presently interested in two overlapping fields: software as a tool for
 positive social change and the intersection of technology and public policy.
 I also try to cook decent vegetarian food from the NYT Cooking app, explore the
-city of Chicago, and read a good book every once in a while (currently [_A Civic
-Technologist's Practice Guide_](https://www.indiebound.org/book/9781735286501)).
+city of Chicago, and read a good book every once in a while (currently [_Caste_](https://www.isabelwilkerson.com/)).
 I'm always looking to meet other interesting humans, so do [drop me a line](mailto:dylanirlbeck@gmail.com) if
 you'd like to chat.
 
