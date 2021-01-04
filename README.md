@@ -2,8 +2,7 @@ _Hey, I'm Dylan!_ 👋
 
 A little about me: I'm currently a senior at the University of Illinois
 Urbana-Champaign (UIUC), studying computer science. Over the last couple years I have done some open-source
-work, given a few talks, and met people -- both
-in person and virtually -- from all over the world. I have also interned at
+work, interned at
 a [few](https://flexport.com) [different](https://draftbit.com)
 [companies](https://relativity.com), and collaborated with a [couple](https://pritzker.uchicago.edu/) [other](https://www.artic.edu/) organizations, doing (what I believe to be) impactful work.
 
