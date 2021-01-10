@@ -7,8 +7,8 @@ a [few](https://flexport.com) [different](https://draftbit.com)
 [companies](https://relativity.com), and collaborated with a [couple](https://pritzker.uchicago.edu/) [other](https://www.artic.edu/) organizations, doing (what I believe to be) impactful work.
 
 I'm presently interested in two overlapping fields: the philosophy of technology and the intersection of technology and the public sector.
-I also try to cook decent vegetarian food from the NYT Cooking app, explore the
-city of Chicago, and read a good book every once in a while (currently [_Caste_](https://www.isabelwilkerson.com/), previously [_A Civic Technologist's Practice Guide_](https://www.goodreads.com/book/show/55225556-a-civic-technologist-s-practice-guide)).
+I also try to cook decent vegetarian food from NYT Cooking, explore the
+city of Chicago, and read a good book every so often (currently [_Caste_](https://www.isabelwilkerson.com/), previously [_A Civic Technologist's Practice Guide_](https://www.goodreads.com/book/show/55225556-a-civic-technologist-s-practice-guide)).
 
 I'm always looking to meet new people, so do [drop me a line](mailto:dylanirlbeck@gmail.com) if
 you'd like to chat. You can also find me on [Urbit](https://urbit.org/) as `~ridwyd-racteb`.
