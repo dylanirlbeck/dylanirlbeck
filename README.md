@@ -11,7 +11,7 @@ I also try to cook decent vegetarian food from NYT Cooking, explore the
 city of Chicago, and read a good book every so often (currently [_Caste_](https://www.isabelwilkerson.com/), previously [_A Civic Technologist's Practice Guide_](https://www.goodreads.com/book/show/55225556-a-civic-technologist-s-practice-guide)).
 
 I'm always looking to meet new people, so do [drop me a line](mailto:dylanirlbeck@gmail.com) if
-you'd like to chat. You can also find me on [Urbit](https://urbit.org/) as `~ridwyd-racteb`.
+you'd like to chat.
 
 ## Talks
 
