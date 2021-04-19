@@ -21,3 +21,7 @@ you'd like to chat.
 ## Writing
 
 - [How Flexport Tracks Warehouse Turnaround Time](https://flexport.engineering/how-flexport-tracks-warehouse-turnaround-time-3f744363c6d3)
+
+## Other
+
+- [Ethical Moderation](https://dylanirlbeck.github.io/ethical-moderation/): a programming project that teaches students about the ethics of content moderation.
