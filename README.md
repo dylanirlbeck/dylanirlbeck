@@ -6,7 +6,7 @@ work, interned at
 a [few](https://flexport.com) [different](https://draftbit.com)
 [companies](https://relativity.com), and collaborated with a [couple](https://pritzker.uchicago.edu/) [other](https://www.artic.edu/) organizations, doing (what I believe to be) impactful work.
 
-My present interests include the philosophy of technology, the intersection of digital technology and society, and computing ethics.
+My present interests include the intersection of digital technology and society, computing ethics, and the philosophy of science and technology.
 I also try to cook decent vegetarian food from NYT Cooking, explore the
 city of Chicago, and read a good book every so often (currently [Algorithms of Oppression](http://algorithmsofoppression.com/) by Safiya Noble).
 
