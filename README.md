@@ -1,7 +1,7 @@
 _Hey, I'm Dylan!_ 👋
 
-A little about me: I'm currently a senior at the University of Illinois
-Urbana-Champaign (UIUC), studying computer science. Over the last couple years I have done some open-source
+A little about me: I'm a recent graduate from the University of Illinois
+Urbana-Champaign (UIUC), where I studied computer science. This summer, I'll be working with the General Services Administration as a [Civic Digital Fellow](https://www.codingitforward.com/civic-digital-fellowship). Over the last couple years I have done some open-source
 work, interned at
 a [few](https://flexport.com) [different](https://draftbit.com)
 [companies](https://relativity.com), and collaborated with a [couple](https://pritzker.uchicago.edu/) [other](https://www.artic.edu/) organizations, doing (what I believe to be) impactful work.
