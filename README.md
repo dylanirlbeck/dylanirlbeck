@@ -13,6 +13,8 @@ city of Chicago, and read a good book every so often (currently [A New Guide to 
 I'm always looking to meet new people, so do [drop me a line](mailto:dylanirlbeck@gmail.com) if
 you'd like to chat.
 
+My blog: https://dylanirlbeck.bearblog.dev/.
+
 ## Talks
 
 - 11/15/20: [How To Open-Source: Lessons Learned From Building _tailwind-ppx_](https://youtu.be/SntggdbJ_Is) ~ SIGPLAN UIUC
