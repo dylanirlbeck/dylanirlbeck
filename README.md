@@ -21,6 +21,7 @@ you'd like to chat. I also try to [write](https://dylanirlbeck.bearblog.dev/.) e
 
 ## Writing
 
+- [The Web as Information Paradigm](https://dylanirlbeck.bearblog.dev/the-web-as-information-paradigm/)
 - [How Flexport Tracks Warehouse Turnaround Time](https://flexport.engineering/how-flexport-tracks-warehouse-turnaround-time-3f744363c6d3)
 
 ## Other
