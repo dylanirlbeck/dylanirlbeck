@@ -8,7 +8,7 @@ a [few](https://flexport.com) [different](https://draftbit.com)
 
 My present interests include the intersection of digital technology and society, computing ethics, and the philosophy of science and technology.
 I also try to cook decent vegetarian food from NYT Cooking, explore the
-city of Chicago, and read a good book every so often (currently [A New Guide to Better Writing](https://www.goodreads.com/book/show/1390913.A_New_Guide_to_Better_Writing)).
+city of Chicago, and read a good book every so often (currently [A New Guide to Better Writing](https://www.goodreads.com/book/show/1390913.A_New_Guide_to_Better_Writing) and Orwell's 1984).
 
 I'm always looking to meet new people, so do [drop me a line](mailto:dylanirlbeck@gmail.com) if
 you'd like to chat. I also try to [write](https://dylanirlbeck.bearblog.dev/.) every so often.
