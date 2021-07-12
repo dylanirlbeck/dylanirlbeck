@@ -21,6 +21,7 @@ you'd like to chat. I also try to [write](https://dylanirlbeck.bearblog.dev/.) e
 
 ## Writing
 
+- [Refactoring Computing Ethics at Illinois](https://docs.google.com/document/d/1tvMSVJ_1jDU-5KrRzoI-ewfg77SnLTXn_OG4vy2sirM/edit)
 - [The Web as Information Paradigm](https://dylanirlbeck.bearblog.dev/the-web-as-information-paradigm/)
 - [How Flexport Tracks Warehouse Turnaround Time](https://flexport.engineering/how-flexport-tracks-warehouse-turnaround-time-3f744363c6d3)
 
