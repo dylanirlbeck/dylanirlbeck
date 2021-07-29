@@ -21,6 +21,7 @@ you'd like to chat. I also try to [write](https://dylanirlbeck.bearblog.dev/.) e
 
 ## Writing
 
+- [The TTS Handbook: A 21st-century approach to internal documentation](https://18f.gsa.gov/2021/07/27/the_tts_handbook_a_21st-century_approach_to_internal_documentation/)
 - [Refactoring Computing Ethics at Illinois](https://docs.google.com/document/d/1tvMSVJ_1jDU-5KrRzoI-ewfg77SnLTXn_OG4vy2sirM/edit)
 - [The Web as Information Paradigm](https://dylanirlbeck.bearblog.dev/the-web-as-information-paradigm/)
 - [How Flexport Tracks Warehouse Turnaround Time](https://flexport.engineering/how-flexport-tracks-warehouse-turnaround-time-3f744363c6d3)
