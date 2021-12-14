@@ -8,7 +8,7 @@ a [few](https://flexport.com) [different](https://draftbit.com)
 
 My present interests include the intersection of digital technology and society, computing ethics, and the philosophy of science and technology.
 I also try to cook decent vegetarian food from NYT Cooking, explore the
-city of Chicago, and read a good book every so often (currently [Power to the Public](https://press.princeton.edu/books/ebook/9780691216638/power-to-the-public)).
+city of Chicago, and read a good book every so often.
 
 I'm always looking to meet new people, so do [drop me a line](mailto:dylanirlbeck@gmail.com) if
 you'd like to chat. I also try to [write](https://dylanirlbeck.bearblog.dev/.) every so often.
